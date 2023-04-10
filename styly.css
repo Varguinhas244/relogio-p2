@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer {
+    background-color: rgb(27, 0, 0);
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.alegre {
+    display: flex;
+    text-align: start ;
+    flex-direction: row;
+    justify-content: flex-end;
+    position: absolute;
+}
+
+.vsc img {
+    width: 50px;
+    height: 30px;
+}
+
+.crome img {
+    width: 30px;
+    height: 30px;
+}
+
+.arq img {
+    width: 45px;
+    height: 30px;
+}
+
+.lupa img {
+    width: 25px;
+    height: 30px;
+}
+
+.winds img {
+    width: 30px;
+    height: 30px;
+}
+
+.triste {
+    display: flex;
+    text-align: start;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+div {
+    color: white;  
+    padding: 4px;
+}
+
+.mudo img {
+    width: 20px;
+    height: 20px;
+}
+
+.internet img {
+    width: 20px;
+    height: 20px;
+}
+
+.seta img {
+    width: 20px;
+    height: 20px;
+}
+
+.pontos img {
+    width: 20px;
+    height: 20px;
+}
